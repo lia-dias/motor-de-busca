@@ -1,0 +1,12 @@
+{
+  "name": "motor-de-busca-simples",
+  "version": "0.1.0",
+  "description": "Um motor de busca simples que tokeniza um texto e utiliza os tokens como parâmetros de busca",
+  "main": "index.js",
+  "repository": "https://github.com/lia-dias/motor-de-busca",
+  "author": "Lia Dias",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}

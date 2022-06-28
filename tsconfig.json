@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "module": "CommonJS",
+        "target": "ES6",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "noEmitOnError": true,
+        "strictNullChecks": true,
+        "moduleResolution": "Node"
+      },
+      "include": ["src/**/*"],
+      "exclude": ["node_modules", "**/*.spec.ts"]
+}
